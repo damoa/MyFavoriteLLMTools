@@ -18,6 +18,8 @@ A list of LLM tools that I find are useful and anhance my creativity/productivit
 
 - [Pythagora-io/gpt-pilot](https://github.com/Pythagora-io/gpt-pilot)
 
+- [llm](https://llm.datasette.io/en/stable/)
+
 - [simonw/llm-cmd](https://github.com/simonw/llm-cmd)
 ```bash
   $ llm cmd undo last 2 commits
