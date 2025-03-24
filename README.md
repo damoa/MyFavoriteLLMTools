@@ -2,10 +2,7 @@
 
 A list of LLM tools that I find are useful and anhance my creativity/productivity.
 
-- [callstack/ai-cli](https://github.com/callstack/ai-cli)
-```bash
-  $ ai "tell me a joke"
-```
+- [https://github.com/microsoft/autogen](https://github.com/microsoft/autogen)
 
 - [danielmiessler/fabric](https://github.com/danielmiessler/fabric)
 ```bash
