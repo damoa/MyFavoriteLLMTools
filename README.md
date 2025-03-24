@@ -14,6 +14,8 @@ A list of LLM tools that I find are useful and anhance my creativity/productivit
 
 - [madox2/vim-ai](https://github.com/madox2/vim-ai)
 
+- [lfnovo/open-notebook](https://github.com/lfnovo/open-notebook)
+
 - [perplexity.ai](https://perplexity.ai)
 
 - [Pythagora-io/gpt-pilot](https://github.com/Pythagora-io/gpt-pilot)
