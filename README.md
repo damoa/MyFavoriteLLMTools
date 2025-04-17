@@ -2,7 +2,9 @@
 
 A list of LLM tools that I find are useful and anhance my creativity/productivity.
 
-- [https://github.com/microsoft/autogen](https://github.com/microsoft/autogen)
+- [Aider-AI/aider](https://github.com/Aider-AI/aider)
+
+- [microsoft/autogen](https://github.com/microsoft/autogen)
 
 - [danielmiessler/fabric](https://github.com/danielmiessler/fabric)
 ```bash
