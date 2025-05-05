@@ -2,6 +2,8 @@
 
 A list of LLM tools that I find are useful and anhance my creativity/productivity.
 
+- [callstack/ai-cli](https://github.com/callstack/ai-cli)
+
 - [Aider-AI/aider](https://github.com/Aider-AI/aider)
 
 - [microsoft/autogen](https://github.com/microsoft/autogen)
@@ -26,6 +28,3 @@ A list of LLM tools that I find are useful and anhance my creativity/productivit
   $ llm cmd undo last 2 commits
   > git reset --hard HEAD~2
 ```
-
-- [TRELLIS](https://huggingface.co/spaces/JeffreyXiang/TRELLIS)
-Image to 3d model
