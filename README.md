@@ -28,3 +28,5 @@ A list of LLM tools that I find are useful and anhance my creativity/productivit
   $ llm cmd undo last 2 commits
   > git reset --hard HEAD~2
 ```
+
+- [superlinked/superlinked](https://github.com/superlinked/superlinked)
