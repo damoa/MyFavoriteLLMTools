@@ -34,3 +34,7 @@ A list of LLM tools that I find are useful and anhance my creativity/productivit
 - [ggml-org/whisper.cpp](https://github.com/ggml-org/whisper.cpp)
 
 - [coqui-ai/TTS](https://github.com/coqui-ai/TTS)
+
+- [getzep/graphiti](https://github.com/getzep/graphiti)
+
+- [dylanhogg/llmgraph](https://github.com/dylanhogg/llmgraph)
