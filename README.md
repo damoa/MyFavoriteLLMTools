@@ -38,3 +38,5 @@ A list of LLM tools that I find are useful and anhance my creativity/productivit
 - [getzep/graphiti](https://github.com/getzep/graphiti)
 
 - [dylanhogg/llmgraph](https://github.com/dylanhogg/llmgraph)
+
+- [system-design-101](https://github.com/ByteByteGoHq/system-design-101)
